@@ -1,0 +1,5 @@
+#pasta temp
+temp/ 
+#arquivo.txt
+#ignorar tudo que for css
+#*.css 
